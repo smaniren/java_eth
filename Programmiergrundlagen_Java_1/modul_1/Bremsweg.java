@@ -1,3 +1,5 @@
+package Programmiergrundlagen_Java_1.modul_1;
+
 public class Bremsweg {
     public double getAnhalteweg(double velocity) {
         return getBremsweg(velocity) + getReaktionsweg(velocity);

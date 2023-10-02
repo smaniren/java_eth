@@ -1,3 +1,5 @@
+package Programmiergrundlagen_Java_1.modul_1;
+
 import java.util.Scanner;
 
 public class Bankomat {
