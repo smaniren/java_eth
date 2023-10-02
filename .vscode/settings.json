@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Programmiergrundlagen_Java_1/modul_4/VTerm104.jar"
+    ]
+}
