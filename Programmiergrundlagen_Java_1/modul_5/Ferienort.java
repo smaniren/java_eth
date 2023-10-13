@@ -7,7 +7,6 @@ public class Ferienort {
         Hotel taube = new Hotel(20, 5, 23);
 
         taube.printInfo();
-
         taube.auschecken(2);
         taube.printInfo();
         taube.einchecken(75);
